@@ -11,6 +11,9 @@ emerge in dimensional modeling. It is mainly used as a quality reference when de
 **2. [Data Warehouse Fundamentals Udemy Course](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/?ranMID=39197&ranEAID=GjbDpcHcs4w&ranSiteID=GjbDpcHcs4w-Z4loChyTwoEeSbWrJLz3Jw&utm_source=aff-campaign&LSNPUBID=GjbDpcHcs4w&utm_medium=udemyads)**
 
 A Udemy course I have completed to get a solid grasp of Data Warehousing fundamentals.
+
+## APIs
+**[Building a simple Flask REST API]**
 ## Markdown
 **1. [Markdown Language Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)**
 
