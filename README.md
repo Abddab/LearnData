@@ -18,3 +18,5 @@ A Udemy course I have completed to get a solid grasp of Data Warehousing fundame
 **1. [Markdown Language Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)**
 
 **2. [Emoji Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)**
+
+**3. [A good README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md)**
