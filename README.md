@@ -13,7 +13,7 @@ emerge in dimensional modeling. It is mainly used as a quality reference when de
 A Udemy course I have completed to get a solid grasp of Data Warehousing fundamentals.
 
 ### APIs
-**[Building a simple Flask REST API]**
+**[Building a simple Flask REST API](https://github.com/Abddab/Building-a-Flask-REST-API)**
 ## Markdown
 **1. [Markdown Language Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)**
 
