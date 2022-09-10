@@ -12,7 +12,7 @@ emerge in dimensional modeling. It is mainly used as a quality reference when de
 
 A Udemy course I have completed to get a solid grasp of Data Warehousing fundamentals.
 
-## APIs
+### APIs
 **[Building a simple Flask REST API]**
 ## Markdown
 **1. [Markdown Language Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)**
