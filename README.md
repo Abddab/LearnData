@@ -12,10 +12,12 @@ emerge in dimensional modeling. It is mainly used as a quality reference when de
 
 A Udemy course I have completed to get a solid grasp of Data Warehousing fundamentals.
 
-**3. [Data modeling for Power BI](https://www.youtube.com/watch?v=MrLnibFTtbA)**
+### Data modeling
+**1. [Data modeling for Power BI](https://www.youtube.com/watch?v=MrLnibFTtbA)**
 
 Data modeling in the context of Power BI.
-
+### ETL and ELT
+### SQL
 ### APIs
 **[Building a simple Flask REST API](https://github.com/Abddab/Building-a-Flask-REST-API)**
 
