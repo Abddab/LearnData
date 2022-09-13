@@ -20,6 +20,9 @@ A Udemy course I have completed to get a solid grasp of Data Warehousing fundame
 
 - [Descriptive statistics](DescriptiveStatistics.MD)
 
+**2. Data visualization**
+- [10 Rules For Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)
+
 ## Markdown
 **1. [Markdown Language Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)**
 
