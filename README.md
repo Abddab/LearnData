@@ -16,7 +16,9 @@ A Udemy course I have completed to get a solid grasp of Data Warehousing fundame
 **[Building a simple Flask REST API](https://github.com/Abddab/Building-a-Flask-REST-API)**
 
 ## Data Analysis / Data Science
-**1. [Descriptive statistics](DescriptiveStatistics.MD)**
+**1. Statistics**
+
+- [Descriptive statistics](DescriptiveStatistics.MD)
 
 ## Markdown
 **1. [Markdown Language Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)**
