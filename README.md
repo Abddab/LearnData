@@ -19,7 +19,6 @@ The main topics that are discussed in the video include: Data modeling (more spe
 
 The video also includes a demo.
 
-Data modeling in the context of Power BI.
 ### ETL and ELT
 ### SQL
 ### APIs 
