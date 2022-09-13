@@ -18,7 +18,8 @@ A Udemy course I have completed to get a solid grasp of Data Warehousing fundame
 ## Data Analysis / Data Science
 **1. Statistics**
 
-- [Descriptive statistics](DescriptiveStatistics.MD)
+- [Descriptive Statistics](DescriptiveStatistics.MD)
+- [Confidence Interval and Sampling Strategies]()
 
 **2. Data visualization**
 - [10 Rules For Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)
