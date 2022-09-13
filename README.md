@@ -18,8 +18,8 @@ A Udemy course I have completed to get a solid grasp of Data Warehousing fundame
 Data modeling in the context of Power BI.
 ### ETL and ELT
 ### SQL
-### APIs
-**[Building a simple Flask REST API](https://github.com/Abddab/Building-a-Flask-REST-API)**
+### APIs 
+**[Building a simple Flask REST API](https://github.com/Abddab/Building-a-Flask-REST-API)** :dart:
 
 ## Data Analysis / Data Science
 **1. Statistics**
@@ -33,7 +33,7 @@ Data modeling in the context of Power BI.
 ## Markdown
 **1. [Markdown Language Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)**
 
-**2. [Emoji Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)**
+**2. [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)**
 
 **3. [A good README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md)**
 
