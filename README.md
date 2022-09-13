@@ -15,6 +15,10 @@ A Udemy course I have completed to get a solid grasp of Data Warehousing fundame
 ### Data modeling
 **1. [Data modeling for Power BI](https://www.youtube.com/watch?v=MrLnibFTtbA)**
 
+The main topics that are discussed in the video include: Data modeling (more specifically, dimensional modeling), the attributes of a good data model (what makes a good data model), the advantages of a good data model, star schemas, Fact (the representation of a business event, for example a sale transaction, a student enrolling in a course, ...) and Dimension (contains descriptive attributes that define how a fact should roll up, for example, rol it up to the country, to the category, ...) tables, the granurality of data, ...
+
+The video also includes a demo.
+
 Data modeling in the context of Power BI.
 ### ETL and ELT
 ### SQL
