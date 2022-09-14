@@ -19,8 +19,12 @@ The main topics that are discussed in the video include: Data modeling (more spe
 
 The video also includes a demo.
 
+**2. [Slowly changing dimension](https://en.wikipedia.org/wiki/Slowly_changing_dimension)**
+
 ### ETL and ELT
 ### SQL
+
+**1. Query optimization**
 ### APIs 
 **[Building a simple Flask REST API](https://github.com/Abddab/Building-a-Flask-REST-API)** :dart:
 
