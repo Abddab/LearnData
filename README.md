@@ -31,7 +31,7 @@ The video also includes a demo.
 ## Data Analysis / Data Science
 **1. Statistics**
 
-- [Descriptive Statistics](DescriptiveStatistics.MD)
+- Descriptive Statistics
 - [Confidence Interval and Sampling Strategies]()
 
 **2. Data visualization**
