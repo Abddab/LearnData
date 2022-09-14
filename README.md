@@ -38,8 +38,11 @@ The video also includes a demo.
 - [10 Rules For Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)
 ## Projects
 **1. [Building a simple Flask REST API](https://github.com/Abddab/Building-a-Flask-REST-API)**
+
 **2. Etsy shop scrape data and load it in database, analyze competitors sales history**
+
 **3. Riot Games's API predict match outcome**
+
 ## Toolbox
 ## Markdown
 **1. [Markdown Language Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)**
