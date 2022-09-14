@@ -32,7 +32,7 @@ The video also includes a demo.
 **1. Statistics**
 
 - Descriptive Statistics
-- [Confidence Interval and Sampling Strategies]()
+- Confidence Interval and Sampling Strategies
 
 **2. Data visualization**
 - [10 Rules For Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)
