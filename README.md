@@ -19,6 +19,8 @@ The main topics that are discussed in the video include: Data modeling (more spe
 
 The video also includes a demo.
 
+**- [Role-playing dimensions in Power BI](https://towardsdatascience.com/role-playing-dimensions-in-power-bi-185dc58f90f1)**
+
 **2. [Slowly changing dimension](https://en.wikipedia.org/wiki/Slowly_changing_dimension)**
 
 ### ETL and ELT
