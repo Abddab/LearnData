@@ -12,6 +12,8 @@ emerge in dimensional modeling. It is mainly used as a reference when designing 
 
 A Udemy course I have completed to get a solid grasp of Data Warehousing fundamentals.
 
+**3. The Big Table Design**
+
 ### Data modeling
 **1. [Data modeling for Power BI](https://www.youtube.com/watch?v=MrLnibFTtbA)**
 
