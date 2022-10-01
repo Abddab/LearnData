@@ -1,5 +1,5 @@
 # LearnData :scientist: :computer: :books:
-All useful resources I used to learn data engineering, data analysis and data science
+Useful resources I used to learn data engineering, data analysis and data science
 
 ## Data Engineering
 ### Data Warehousing
