@@ -30,7 +30,6 @@ The video also includes a demo.
 
 **1. Query optimization**
 ### APIs 
-**[Building a simple Flask REST API](https://github.com/Abddab/Building-a-Flask-REST-API)**
 
 ## Data Analysis / Data Science
 **1. Statistics**
