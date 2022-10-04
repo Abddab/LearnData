@@ -27,7 +27,7 @@ Here's an [article](https://www.ibm.com/cloud/learn/data-modeling) discussing th
 
 ### 3. ETL and ELT
 ### 4. SQL
-
+- **[Step-by-step approach to solve SQL problems](https://www.youtube.com/watch?v=tNXliLTlrV8)**
 - **Query optimization**
 ### 5. APIs 
 
