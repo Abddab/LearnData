@@ -27,6 +27,8 @@ Here's an [article](https://www.ibm.com/cloud/learn/data-modeling) discussing th
 
 ### 3. ETL and ELT
 ### 4. SQL
+
+- **[Aggregate Functions and Window Functions](https://learnsql.com/blog/window-functions-vs-aggregate-functions/)
 - **[How to solve complex SQL questions](https://www.youtube.com/watch?v=vLjAG9eXkcU&list=PLLqIliLAYMUcoMQzpGbibNDHOWez_uAJF&index=48)**
 
 A methodology used to approach more complex problems that involve more business rules and logical steps. 
