@@ -80,6 +80,10 @@ The video also includes a demo.
 
 **3. Riot Games's API predict match outcome**
 
+**4. [Building a Data Warehouse from a transactional database]()**
+
+Using AdventureWorks's OLTP database, create a Data Warehouse using SSIS as an ETL tool. The dimensional models will be imported into Power BI to generate useful reports.
+
 ## Toolbox
 ## Markdown
 **1. [Markdown Language Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)**
