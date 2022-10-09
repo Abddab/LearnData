@@ -28,24 +28,22 @@ Here's an [article](https://www.ibm.com/cloud/learn/data-modeling) discussing th
 ### 3. ETL and ELT
 ### 4. SQL
 
-- **[Basic SQL commands](https://www.w3schools.com/sql/sql_syntax.asp)**
+* **[Basic SQL commands](https://www.w3schools.com/sql/sql_syntax.asp)**
 
 All basic data query language statements (SELECT, WHERE, DISTINCT, ORDER BY, GROUP BY, ...)
 
-- **[DDL, DQL, DML and DCL](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)**
+* **[DDL, DQL, DML and DCL](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)**: Four categories of SQL commands
 
-SQL commands are mainly categorized in four categories:
+  * **DDL: Data Definition Language:** SQL commands that can be used to define the database schema
 
-**1. DDL – Data Definition Language:** SQL commands that can be used to define the database schema
+  * **DQL: Data Query Language:** Used for performing queries on the data within schema objects
 
-**2. DQL – Data Query Language:** Used for performing queries on the data within schema objects
+  * **DML: Data Manipulation Language:** Commands that deals with the manipulation of data present in the database
 
-**3. DML – Data Manipulation Language:** Commands that deals with the manipulation of data present in the database
+  * **DCL: Data Control Language:** includes commands such as GRANT and REVOKE which mainly deal with the rights, permissions, and other controls of the database system
 
-**4. DCL – Data Control Language:** includes commands such as GRANT and REVOKE which mainly deal with the rights, permissions, and other controls of the database system
-
-- **[Aggregate Functions and Window Functions](https://learnsql.com/blog/window-functions-vs-aggregate-functions/)**
-- **[How to solve complex SQL questions](https://www.youtube.com/watch?v=vLjAG9eXkcU&list=PLLqIliLAYMUcoMQzpGbibNDHOWez_uAJF&index=48)**
+* **[Aggregate Functions and Window Functions](https://learnsql.com/blog/window-functions-vs-aggregate-functions/)**
+* **[How to solve complex SQL questions](https://www.youtube.com/watch?v=vLjAG9eXkcU&list=PLLqIliLAYMUcoMQzpGbibNDHOWez_uAJF&index=48)**
 
 A methodology used to approach more complex problems that involve more business rules and logical steps. 
 
