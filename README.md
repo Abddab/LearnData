@@ -1,7 +1,7 @@
 # LearnData :scientist: :computer: :books:
 Useful resources I used to learn data engineering, data analysis and data science
 
-## <span style="color:red">Data Engineering</span>
+## Data Engineering
 ### 1. Data Warehousing
 
 - **[Kimball's Data Warehouse Guide](https://drive.google.com/file/d/1N-1gvleB9G-csHTTwjeQ5Ac_-P3Wr2Cd/view?usp=sharing)**
