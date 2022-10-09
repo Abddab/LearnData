@@ -82,7 +82,7 @@ The video also includes a demo.
 
 **4. [Building a Data Warehouse from a transactional database]()**
 
-Using AdventureWorks's OLTP database, create a Data Warehouse using SSIS as an ETL tool. The dimensional models will be imported into Power BI to generate useful reports.
+Using [AdventureWorks's OLTP database](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms), create a Data Warehouse using SSIS as an ETL tool. The dimensional models will be imported into Power BI to generate useful reports.
 
 ## Toolbox
 ## Markdown
