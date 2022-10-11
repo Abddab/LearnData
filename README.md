@@ -74,9 +74,9 @@ The video also includes a demo.
 ## Projects
 **1. [Building a simple Flask REST API](https://github.com/Abddab/Building-a-Flask-REST-API)**
 
-**2. Etsy shop scrape data and load it in database, analyze competitors sales history**
+**2. Etsy shop scrape data and load it in database, analyze competitors sales history** TODO
 
-**3. Riot Games's API predict match outcome**
+**3. Riot Games's API predict match outcome** TODO
 
 **4. [Building a Data Warehouse from a transactional database](https://github.com/Abddab/Data-Warehousing-demo/blob/main/README.md)**
 
