@@ -78,7 +78,7 @@ The video also includes a demo.
 
 **3. Riot Games's API predict match outcome**
 
-**4. [Building a Data Warehouse from a transactional database]()**
+**4. [Building a Data Warehouse from a transactional database](https://github.com/Abddab/Data-Warehousing-demo/blob/main/README.md)**
 
 Using [AdventureWorks's OLTP database](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms), create a Data Warehouse using SSIS as an ETL tool. The dimensional models will be imported into Power BI to generate useful reports.
 
