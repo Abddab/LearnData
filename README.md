@@ -26,7 +26,10 @@ Here's an [article](https://www.ibm.com/cloud/learn/data-modeling) discussing th
 - **[Slowly changing dimension](https://en.wikipedia.org/wiki/Slowly_changing_dimension)**
 
 ### 3. ETL and ELT
-### 4. SQL
+### 4. Big Data
+ * **Hadoop**
+     * **[What is MapReduce](https://www.guru99.com/introduction-to-mapreduce.html)**
+### 5. SQL
 
 * **[Basic SQL commands](https://www.w3schools.com/sql/sql_syntax.asp)**
 
@@ -48,9 +51,9 @@ All basic data query language statements (SELECT, WHERE, DISTINCT, ORDER BY, GRO
 A methodology used to approach more complex problems that involve more business rules and logical steps. 
 
 - **Query optimization**
-### 5. APIs 
+### 6. APIs 
 
-### 6. Python 
+### 7. Python 
 
 ## Data Analysis / Data Science
 ### 1. Statistics
