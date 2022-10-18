@@ -48,6 +48,7 @@ All basic data query language statements (SELECT, WHERE, DISTINCT, ORDER BY, GRO
 * **[Aggregate Functions and Window Functions](https://learnsql.com/blog/window-functions-vs-aggregate-functions/)**
 * **[How to solve complex SQL questions](https://www.youtube.com/watch?v=vLjAG9eXkcU&list=PLLqIliLAYMUcoMQzpGbibNDHOWez_uAJF&index=48)**
 * **[CTEs and Temp Tables in SQL Server](https://www.dotnettricks.com/learn/sqlserver/difference-between-cte-and-temp-table-and-table-variable#:~:text=Temp%20Tables%20are%20physically%20created,the%20scope%20of%20a%20statement.)**
+*  **[Triggers](https://www.youtube.com/watch?v=WBmE4Utu6P4)**
 
 A methodology used to approach more complex problems that involve more business rules and logical steps. 
 
