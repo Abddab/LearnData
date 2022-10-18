@@ -47,10 +47,12 @@ All basic data query language statements (SELECT, WHERE, DISTINCT, ORDER BY, GRO
 
 * **[Aggregate Functions and Window Functions](https://learnsql.com/blog/window-functions-vs-aggregate-functions/)**
 * **[How to solve complex SQL questions](https://www.youtube.com/watch?v=vLjAG9eXkcU&list=PLLqIliLAYMUcoMQzpGbibNDHOWez_uAJF&index=48)**
+
+A methodology used to approach more complex problems that involve more business rules and logical steps. 
 * **[CTEs and Temp Tables in SQL Server](https://www.dotnettricks.com/learn/sqlserver/difference-between-cte-and-temp-table-and-table-variable#:~:text=Temp%20Tables%20are%20physically%20created,the%20scope%20of%20a%20statement.)**
 *  **[Triggers](https://www.youtube.com/watch?v=WBmE4Utu6P4)**
 
-A methodology used to approach more complex problems that involve more business rules and logical steps. 
+
 
 - **Query optimization**
 ### 6. APIs 
@@ -77,13 +79,12 @@ The main topics that are discussed in the video include: Data modeling (more spe
 
 The video also includes a demo.
 ## Projects
-**1. [Building a simple Flask REST API](https://github.com/Abddab/Building-a-Flask-REST-API)**
 
-**2. Etsy shop scrape data and load it in database, analyze competitors sales history** TODO
+**1. Etsy shop scrape data and load it in database, analyze competitors sales history** TODO
 
-**3. Riot Games's API predict match outcome** TODO
+**2. Riot Games's API predict match outcome** TODO
 
-**4. [Building a Data Warehouse from a transactional database](https://github.com/Abddab/Data-Warehousing-demo/blob/main/README.md)**
+**3. [Building a Data Warehouse from a transactional database](https://github.com/Abddab/Data-Warehousing-demo/blob/main/README.md)**
 
 Using [AdventureWorks's OLTP database](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms), create a Data Warehouse using SSIS as an ETL tool. The dimensional models will be imported into Power BI to generate useful reports.
 
