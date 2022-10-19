@@ -66,6 +66,8 @@ A methodology used to approach more complex problems that involve more business 
 - **Confidence Interval and Sampling Strategies**
 - **[Hypothesis testing and the Null Hypothesis](https://www.youtube.com/watch?v=0oc49DyA3hU)**
 
+    Some information on [t-tests](http://www.sthda.com/english/wiki/paired-samples-t-test-in-r)
+
 ### 2. Data visualization tips
 - **[10 Rules For Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)**
 
