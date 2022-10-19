@@ -64,6 +64,7 @@ A methodology used to approach more complex problems that involve more business 
 
 - **Descriptive Statistics**
 - **Confidence Interval and Sampling Strategies**
+- **[Hypothesis testing and the Null Hypothesis](https://www.youtube.com/watch?v=0oc49DyA3hU)
 
 ### 2. Data visualization tips
 - **[10 Rules For Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)**
