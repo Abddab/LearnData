@@ -64,6 +64,9 @@ A methodology used to approach more complex problems that involve more business 
 ### 1. Types of data analysis
 A list of popular types of data analysis
 - **[Diagnostic Analysis](https://www.sisense.com/glossary/diagnostic-analytics/)**
+- **[Churn analytics](https://mixpanel.com/blog/churn-analytics/#:~:text=Churn%20analytics%20is%20the%20process,larger%20margins%2C%20and%20higher%20profits.)**
+The process of measuring the rate at which customers qui the rate, product/site/or service (Marks Simborg, 2022)
+
 ### 2. Statistics
 
 - **Descriptive Statistics**
@@ -85,6 +88,8 @@ A list of exercices on Wise Owl's Website to practice the DAX langugage
 The main topics that are discussed in the video include: Data modeling (more specifically, dimensional modeling), the attributes of a good data model (what makes a good data model), the advantages of a good data model, star schemas, Fact (the representation of a business event, for example a sale transaction, a student enrolling in a course, ...) and Dimension (contains descriptive attributes that define how a fact should roll up, for example, rol it up to the country, to the category, ...) tables, the granurality of data, ...
 
 The video also includes a demo.
+
+### 5. [Supervised and unsupervised Learning](https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning)
 ## Projects
 
 **1. Etsy shop scrape data and load it in database, analyze competitors sales history** TODO
