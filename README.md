@@ -85,7 +85,7 @@ The video also includes a demo.
 
 **1. Etsy shop scrape data and load it in database, analyze competitors sales history** TODO
 
-**2. Riot Games's API predict match outcome** TODO
+**2. [Predict the outcome of a League of Legends match using Riot Games's API](https://github.com/Abddab/Predicting_League_of_Legends_match_outcome)** In progress
 
 **3. [Building a Data Warehouse from a transactional database](https://github.com/Abddab/Data-Warehousing-demo/blob/main/README.md)**
 
