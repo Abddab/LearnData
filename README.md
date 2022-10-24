@@ -60,7 +60,11 @@ A methodology used to approach more complex problems that involve more business 
 ### 7. Python 
 
 ## Data Analysis / Data Science
-### 1. Statistics
+
+### 1. Types of data analysis
+A list of popular types of data analysis
+- **[Diagnostic Analysis](https://www.sisense.com/glossary/diagnostic-analytics/)**
+### 2. Statistics
 
 - **Descriptive Statistics**
 - **Confidence Interval and Sampling Strategies**
@@ -68,10 +72,10 @@ A methodology used to approach more complex problems that involve more business 
 
     Some information on [t-tests](http://www.sthda.com/english/wiki/paired-samples-t-test-in-r)
 
-### 2. Data visualization tips
+### 3. Data visualization tips
 - **[10 Rules For Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)**
 
-### 3. Power BI
+### 4. Power BI
 - **[Power BI DAX Exercices](https://www.wiseowl.co.uk/power-bi/exercises/)**
 
 A list of exercices on Wise Owl's Website to practice the DAX langugage
