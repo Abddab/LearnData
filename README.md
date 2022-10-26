@@ -51,6 +51,9 @@ All basic data query language statements (SELECT, WHERE, DISTINCT, ORDER BY, GRO
 A methodology used to approach more complex problems that involve more business rules and logical steps. 
 * **[CTEs and Temp Tables in SQL Server](https://www.dotnettricks.com/learn/sqlserver/difference-between-cte-and-temp-table-and-table-variable#:~:text=Temp%20Tables%20are%20physically%20created,the%20scope%20of%20a%20statement.)**
 *  **[Triggers](https://www.youtube.com/watch?v=WBmE4Utu6P4)**
+* **[Indexes](https://www.tutorialspoint.com/sql/sql-indexes.htm)**
+
+Speeding up data retrieval in a database
 
 
 
