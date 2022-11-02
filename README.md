@@ -1,5 +1,5 @@
 # LearnData :scientist: :computer: :books:
-Useful resources I used to learn data engineering, data analysis and data science
+Useful resources I used to learn data engineering, data analysis and data science. The list is updated on a regular basis.
 
 ## Data Engineering
 ### 1. Data Warehousing
